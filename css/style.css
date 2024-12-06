@@ -256,12 +256,12 @@ h1.pageHeading {
   right: 3.125vw;
 }
 .nextSlide .carousel-control-next-icon {
-  background-image: url("/images/rightarrow.svg");
+  background-image: url("../images/rightarrow.svg");
   width: 1.3rem;
   height: 1.3rem;
 }
 .nextSlide .carousel-control-prev-icon {
-  background-image: url("/images/leftarrow.svg");
+  background-image: url("../images/leftarrow.svg");
   width: 1.3rem;
   height: 1.3rem;
 }
@@ -558,7 +558,7 @@ ul.slick-dots .slick-active button {
 }
 
 .bgBox {
-  background-image: url(/images/counter.png);
+	background-image: url("../images/counter.png");
   background-size: cover;
   margin-top: -90px !important;
   z-index: 2;
